@@ -95,7 +95,7 @@ a:hover {
 }
 
 .blog-metadata {
-  color: #777;
+  color: #aaa;
   display: flex;
   margin: 15px 0 25px 0;
   align-items: center;
@@ -115,7 +115,7 @@ a:hover {
 }
 
 .blog-author a {
-  color: #aaa;
+  color: #ccc;
 }
 .blog-author a:hover,
 .blog-author a:focus {
