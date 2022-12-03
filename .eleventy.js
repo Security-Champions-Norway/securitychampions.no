@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/img");
+  const passthroughDirs = ["src/img", "src/css"];
+  passthroughDirs.forEach((dir) => eleventyConfig.addPassthroughCopy(dir));
 
   return {
     dir: {
