@@ -1,4 +1,89 @@
+:root {
+  --main-color: #4f8aa9;
+}
+
 body {
-  background-color: #224;
+  font-family: "Kanit Regular", Verdana, sans-serif;
+  background-color: black;
   color: white;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Kanit Regular";
+  src: url("/fonts/Kanit-Regular.ttf");
+}
+@font-face {
+  font-family: "Kanit SemiBold";
+  src: url("/fonts/Kanit-SemiBold.ttf");
+}
+
+a,
+a:visited {
+  color: var(--main-color);
+  transition: color 0.1s;
+}
+
+a:focus,
+a:hover {
+  color: white;
+}
+
+.main-wrapper {
+  background-color: #11111a;
+  padding: 20px 20px;
+  min-height: 600px;
+}
+
+.main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.page-index {
+  text-align: center;
+}
+
+.main .title {
+  font-family: "Kanit SemiBold", Verdana, sans-serif;
+  font-size: 4em;
+  line-height: 1em;
+}
+
+.main .tagline {
+  font-size: 2em;
+}
+
+.header {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.2em;
+  justify-content: end;
+}
+
+.header > *:first-child {
+  flex-grow: 1;
+}
+
+.header .github svg {
+  fill: white;
+  height: 1rem;
+}
+
+.footer {
+  padding: 20px;
+  color: #888;
+  text-align: center;
+}
+
+.footer a {
+  color: #aaa;
+}
+
+.footer a:hover,
+.footer a:focus {
+  color: #fff;
 }
