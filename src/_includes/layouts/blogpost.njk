@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+pageClass: blogpost
+---
+
+<h1 class="blog-title">{{title | safe}}</h1>
+<span class="blog-metadata">
+<img class="blog-author-image" src="{{author.image}}" />
+<span class="blog-author-and-date">
+<span class="blog-author"><a href="{{author.link}}">{{ author.name }}</a></span>
+<span class="blog-date">{{ postDate | formatDateHuman }}</span>
+</span>
+</span>
+
+{{ content | safe }}

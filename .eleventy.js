@@ -13,8 +13,34 @@ module.exports = function (eleventyConfig) {
 
     return data.toString("utf8");
   };
-
   eleventyConfig.addShortcode("svg", getSvgContent);
+
+  function formatDateHuman(date) {
+    if (!date) return "";
+
+    const monthNames = [
+      "januar",
+      "februar",
+      "mars",
+      "april",
+      "mai",
+      "juni",
+      "juli",
+      "august",
+      "september",
+      "oktober",
+      "november",
+      "desember",
+    ];
+    return `${date.getDate()}. ${
+      monthNames[date.getMonth()]
+    } ${date.getFullYear()}`;
+  }
+
+  eleventyConfig.addFilter("formatDateISO", (date) =>
+    date ? date.toISOString().substring(0, 10) : ""
+  );
+  eleventyConfig.addFilter("formatDateHuman", formatDateHuman);
 
   return {
     dir: {

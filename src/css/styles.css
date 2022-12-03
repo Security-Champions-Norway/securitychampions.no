@@ -87,3 +87,37 @@ a:hover {
 .footer a:focus {
   color: #fff;
 }
+
+/* blog */
+
+.blog-title {
+  margin-bottom: 2px;
+}
+
+.blog-metadata {
+  color: #777;
+  display: flex;
+  margin: 15px 0 25px 0;
+  align-items: center;
+  justify-content: end;
+  gap: 10px;
+  width: 100%;
+}
+
+.blog-author-image {
+  height: 2.5em;
+  border-radius: 100%;
+}
+
+.blog-author-and-date {
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-author a {
+  color: #aaa;
+}
+.blog-author a:hover,
+.blog-author a:focus {
+  color: #fff;
+}
