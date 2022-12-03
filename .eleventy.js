@@ -1,4 +1,6 @@
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("src/img");
+
   return {
     dir: {
       input: "src",
@@ -8,5 +10,6 @@ module.exports = function (eleventyConfig) {
     templateFormats: ["html", "njk", "md", "11ty.js"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
+    passthroughFileCopy: true,
   };
 };
