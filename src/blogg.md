@@ -1,4 +1,5 @@
 ---
+title: Blogg
 layout: "layouts/base.njk"
 pageClass: blog
 ---
