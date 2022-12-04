@@ -14,4 +14,4 @@ pageClass: blog
 
 ---
 
-Har du en bloggpost du vil publisere her? Send inn en [pull request](https://github.com/Security-Champions-Norway/securitychampions.no/tree/main/src/blogg)!
+Har du en bloggpost du vil publisere her? Send inn en [pull request]({{ scn.githubRepoUrl }}/tree/main/src/blogg)!

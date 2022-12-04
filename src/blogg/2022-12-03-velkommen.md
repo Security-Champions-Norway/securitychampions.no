@@ -27,4 +27,4 @@ Det kommer helt an på hva fellesskapet vil ha! Men her er noen eksempler:
 
 Fantastisk! 🙌🏻 Security Champions Norge er 100 % drevet av fellesskapet selv, så vi er helt avhengig av bidrag fra de som har tid og lyst.
 
-Nettsiden er laget med [11ty](https://www.11ty.dev), og kildekoden ligger åpent på GitHub: [Security-Champions-Norway/securitychampions.no](https://github.com/Security-Champions-Norway/securitychampions.no). Send gjerne inn pull requester, eller be om bli lagt inn i [organisasjonen](https://github.com/Security-Champions-Norway).
+Nettsiden er laget med [11ty](https://www.11ty.dev), og kildekoden ligger åpent på GitHub: [Security-Champions-Norway/securitychampions.no]({{ scn.githubRepoUrl }}). Send gjerne inn pull requester, eller be om bli lagt inn i [organisasjonen]({{ scn.githubOrgUrl }}).
