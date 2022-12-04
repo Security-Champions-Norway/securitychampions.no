@@ -14,4 +14,6 @@ pageClass: blog
 
 ---
 
+<span class="blog-subscribe"><img src="/img/rss.png" height="15px" /> <a href="/blogg/feed.xml">Abonner på artikler</a></span>
+
 Har du en bloggpost du vil publisere her? Send inn en [pull request]({{ scn.githubRepoUrl }}/tree/main/src/blogg)!
