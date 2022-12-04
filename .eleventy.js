@@ -16,6 +16,8 @@ module.exports = function (eleventyConfig) {
   };
   eleventyConfig.addShortcode("svg", getSvgContent);
 
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
   function formatDateHuman(date) {
     if (!date) return "";
 
