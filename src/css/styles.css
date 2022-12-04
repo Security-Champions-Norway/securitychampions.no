@@ -55,6 +55,8 @@ a:hover {
   font-size: 2em;
 }
 
+/* header */
+
 .header {
   padding: 10px 20px;
   display: flex;
@@ -73,6 +75,8 @@ a:hover {
   height: 1rem;
 }
 
+/* footer */
+
 .footer {
   padding: 20px;
   color: #888;
@@ -86,6 +90,10 @@ a:hover {
 .footer a:hover,
 .footer a:focus {
   color: #fff;
+}
+
+.footer span {
+  display: block;
 }
 
 /* blog */
