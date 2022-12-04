@@ -18,7 +18,7 @@ pageClass: base
         <span>❤️ <a href="/">Hjem</a></span>
         <a href="/blogg">Blogg</a>
         <a href="/om-fellesskapet">Om fellesskapet</a>
-        <a href="{{ scn.githubRepoUrl }}" class="github" title="Se på GitHub" aria-label="Se på GitHub">{% svg "github" %}</a>
+        <a href="{{ site.githubRepoUrl }}" class="github" title="Se på GitHub" aria-label="Se på GitHub">{% svg "github" %}</a>
     </header>
     <div class="main-wrapper">
         <main class="main page-{{pageClass}}">
@@ -27,7 +27,7 @@ pageClass: base
     </div>
     <footer class="footer">
         <span>&copy; Security Champions Norge {% year %}. Laget med <a href="https://www.11ty.dev">11ty</a></span>
-        <span><a href="{{ scn.githubRepoUrl }}/blob/main/{{ page.inputPath }}">Rediger på GitHub</a></span>
+        <span><a href="{{ site.githubRepoUrl }}/blob/main/{{ page.inputPath }}">Rediger på GitHub</a></span>
     </footer>
   </body>
 </html>
