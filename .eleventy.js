@@ -1,4 +1,5 @@
 const fs = require("fs");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   const passthroughDirs = ["src/img", "src/css", "src/fonts"];
@@ -41,6 +42,8 @@ module.exports = function (eleventyConfig) {
     date ? date.toISOString().substring(0, 10) : ""
   );
   eleventyConfig.addFilter("formatDateHuman", formatDateHuman);
+
+  eleventyConfig.addPlugin(pluginRss);
 
   return {
     dir: {
