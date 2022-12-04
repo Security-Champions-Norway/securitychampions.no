@@ -25,7 +25,6 @@ author:
   name: Julian Ravn Thrap-Meyer
   link: https://www.linkedin.com/in/julian-ravn-thrap-meyer/
   image: https://media-exp1.licdn.com/dms/image/C4D03AQEpftwbX54xiA/profile-displayphoto-shrink_100_100/0/1645188444451?e=1675296000&v=beta&t=CUyhf_Et2oBeEm9JIf4M0CUkiSuL7fotN_2WmZUlXhw
-layout: layouts/blogpost.njk
 ---
 
 ... her kommer innlegget ...
