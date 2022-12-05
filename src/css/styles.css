@@ -41,6 +41,8 @@ a:hover {
   margin: 0 auto;
 }
 
+/* index page */
+
 .page-index {
   text-align: center;
 }
@@ -53,6 +55,18 @@ a:hover {
 
 .main .tagline {
   font-size: 2em;
+}
+
+.slack-join-link a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-size: 1.2em;
+}
+
+.slack-join-link img {
+  height: 20px;
 }
 
 /* header */
