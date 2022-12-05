@@ -2,6 +2,7 @@
 layout: "layouts/base.njk"
 pageClass: resources
 title: Ressurser
+description: Artikler, podcaster, videoer, og andre nyttige ressurser innenfor sikkerhet og sikkerhetskultur
 ---
 
 # Nyttige ressurser
