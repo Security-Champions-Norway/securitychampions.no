@@ -1,0 +1,27 @@
+---
+title: Meetup nr 2
+description: Meetup nr. 2 hos NAV
+postDate: 2022-12-06
+author:
+  name: Jan-Kåre Solbakken
+  link: https://www.linkedin.com/in/jksolbakken/
+  image: /img/authors/jk.jpg
+---
+
+Etter at NRK åpnet ballet med verdens første meetup i Security Champions Norge tidligere i høst var det vi i NAV som skulle ta stafettpinnen videre. Datoen ble satt til 28. november.
+
+<img src="/img/scn2.jpg" height="300px" style="border: 5px solid white" alt="Andre meetup, i regi av NAV" title="Andre meetup, i regi av NAV">
+
+Ca. 60 personer fra over 30 virksomheter i offentlig og privat sektor møtte opp i våre lokaler på Helsfyr, mens omtrent halvparten så mange fulgte med på Zoom. De fleste var hjemmehørende i Oslo-området, men noen hadde tatt turen fra andre steder. Equinor sin delegasjon kom fra Stavanger, mens Snyk hadde tatt turen hele veien fra London 🇬🇧.
+
+Meetupen handlet i stor grad om å bli kjent og utveksle erfaringer fra oppstart av Security Champions-program i de ulike virksomhetene. Først på programmet var lyntaler fra Tripletex, NRK, NBIM, Equinor og Norsk Helsenett. Oslo Origo holdt deretter en litt lengre presentasjon om veien fram til sitt nyoppstartede opplegg etterfulgt av Bouvet som fortalte om reisen fra stryk til toppkarakter på sitt sikkerhetsakademi. Simon Maple fra Snyk rundet av med en erfaringsrapport proppfull av "do's and don'ts" etter å ha observert en rekke secchamp-initiativer over tid.
+
+<img src="/img/origo.jpg" height="300px" style="border: 5px solid white" alt="Martin Albert-Hoff fra Oslo Origo" title="Martin Albert-Hoff fra Oslo Origo">
+
+Engasjementet underveis var bra, spesielt lyntaleformatet viste seg å fungere godt. Deltakerne har ulike mål og omfang på sine opplegg, og det er gull å kunne utveksle erfaringer 💪.
+
+Etter det faglige avsluttet vi med litt mat, drikke og sosialisering.
+
+Arrangørene (undertegnede, Julian, Tanet, Sondre, Dani, Per-Christian, Marte og Emil) takker ærbødigst for at vi fikk lov til å være vertskap, og en spesiell takk går til de som bidro med innhold. Neste meetup er planlagt på nyåret i regi av Bouvet, mere informasjon kommer plutselig.
+
+Der gledes!
