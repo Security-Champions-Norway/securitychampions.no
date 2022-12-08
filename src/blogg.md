@@ -8,7 +8,7 @@ pageClass: blog
 
 {% for post in collections.blogpost | reverse %}
 
-## [{{ post.data.postDate | formatDateISO }} – {{ post.data.title | safe }}]({{ post.url }})
+## [{{ post.data.date | formatDateISO }} – {{ post.data.title | safe }}]({{ post.url }})
 
 {% endfor %}
 

@@ -1,7 +1,7 @@
 ---
 title: Velkommen til securitychampions.no! 👋🏻
 description: Hva er dette, og hvordan kan du bidra?
-postDate: 2022-12-03
+date: 2022-12-03
 author:
   name: Julian Ravn Thrap-Meyer
   link: https://www.linkedin.com/in/julian-ravn-thrap-meyer/

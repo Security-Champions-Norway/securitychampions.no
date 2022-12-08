@@ -9,7 +9,7 @@ pageClass: blogpost
         <img class="blog-author-image" src="{{author.image}}" alt="Bilde av {{author.name}}" />
         <span class="blog-author-and-date">
             <span class="blog-author"><a href="{{author.link}}">{{ author.name }}</a></span>
-            <span class="blog-date">{{ postDate | formatDateHuman }}</span>
+            <span class="blog-date">{{ date | formatDateHuman }}</span>
         </span>
     </span>
 
