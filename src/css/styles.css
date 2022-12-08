@@ -110,9 +110,40 @@ a:hover {
   display: block;
 }
 
-/* blog */
+/* blog list */
+
+.blog-entries {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.blog-entry {
+  background-color: #ffffff0f;
+  padding: 15px 15px;
+  border-radius: 5px;
+}
+
+.blog-entry-title {
+  margin: 0px;
+}
+
+.blog-entry-description {
+  margin: 4px 0;
+  display: inline-block;
+}
+
+.blog-entry-metadata {
+  display: flex;
+  gap: 5px;
+  color: #999;
+  justify-content: end;
+}
+
+/* blog post */
 
 .blog-title {
+  font-size: 2em;
   margin-bottom: 2px;
 }
 
