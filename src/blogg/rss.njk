@@ -1,0 +1,45 @@
+---json
+{
+    "layout": null,
+    "permalink": "blogg/rss.xml",
+    "eleventyExcludeFromCollections": true,
+    "metadata": {
+        "title": "Security Champions Norge",
+        "subtitle": "Blogg fra fellesskapet Security Champions Norge",
+        "language": "no",
+        "url": "https://securitychampions.no/"
+    }
+}
+---
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.url }}</link>
+    <description>{{ metadata.subtitle }}</description>
+    <generator>Eleventy – 11ty.dev</generator>
+    <language>no-NO</language>
+    <image>
+        <link>{{ metadata.url }}</link>
+        <title>{{ metadata.title }}</title>
+        <url>https://securitychampions.no/img/sc-logo.png</url>
+        <width>300</width>
+        <height>300</height>
+    </image>
+    <lastBuildDate>{{ collections.blogpost | getNewestCollectionItemDate | dateToRfc822 }}</lastBuildDate>
+    <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
+
+    {%- for post in collections.blogpost | reverse %}
+        {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
+
+        <item>
+          <title>{{ post.data.title }}</title>
+          <link>{{ absolutePostUrl }}</link>
+          <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+
+          <guid>{{ absolutePostUrl }}</guid>
+          <description>{{ post.data.description }}</description>
+        </item>
+    {%- endfor %}
+  </channel>
+</rss>
