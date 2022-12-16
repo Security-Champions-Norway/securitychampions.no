@@ -1,0 +1,29 @@
+[
+  {
+    "title": "NDC Security",
+    "description": "Conference for Software Developers",
+    "location": "Clarion Hotel, Oslo, Norge",
+    "dateStart": "2023-01-16T08:00:00Z",
+    "dateEnd": "2023-01-19T18:00:00Z",
+    "url": "https://ndc-security.com/",
+    "tags": [ "konferanse" ]
+  },
+  {
+    "title": "Kode24-dagen",
+    "description": "Norges koseligste utviklerkonferanse",
+    "location": "Quality Hotel Hasle Linie, Oslo, Norge",
+    "dateStart": "2023-02-09T07:00:00Z",
+    "dateEnd": "2023-02-09T21:00:00Z",
+    "url": "https://www.kode24-dagen.no/",
+    "tags": [ "konferanse" ]
+  },
+  {
+  "title": "Sikkehetsfestivalen",
+  "description": "Norges største møteplass for cybersikkerhet",
+  "location": "Lillehammer, Norge",
+  "dateStart": "2023-08-28T08:00:00Z",
+  "dateEnd": "2023-08-30T14:00:00Z",
+  "url": "https://sikkerhetsfestivalen.no/",
+  "tags": [ "konferanse" ]
+}
+]
