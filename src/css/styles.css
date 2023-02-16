@@ -180,3 +180,22 @@ a:hover {
   align-items: center;
   gap: 5px;
 }
+
+/* events */
+
+.event-entry {
+  margin-bottom: 20px;
+}
+.event-entry-title {
+  margin-bottom: 0;
+}
+.event-entry-meta {
+  color: #999;
+}
+.event-entry-date {
+  color: #aaa;
+}
+.event-entry-meta,
+.event-entry-description {
+  margin-left: 15px;
+}

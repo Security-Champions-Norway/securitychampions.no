@@ -20,6 +20,7 @@ module.exports = function (eleventyConfig) {
 
   function formatDateHuman(date) {
     if (!date) return "";
+    if (typeof date === "string") return formatDateHuman(new Date(date));
 
     const monthNames = [
       "januar",
