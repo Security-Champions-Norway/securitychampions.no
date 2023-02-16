@@ -45,6 +45,14 @@ module.exports = function (eleventyConfig) {
   );
   eleventyConfig.addFilter("formatDateHuman", formatDateHuman);
 
+  const now = new Date();
+  eleventyConfig.addFilter("futureEvents", (events) =>
+    events.filter((event) => new Date(event.dateEnd).getTime() >= now.getTime())
+  );
+  eleventyConfig.addFilter("pastEvents", (events) =>
+    events.filter((event) => new Date(event.dateEnd).getTime() < now.getTime())
+  );
+
   eleventyConfig.addPlugin(pluginRss);
 
   return {
