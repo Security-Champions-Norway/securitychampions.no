@@ -1,6 +1,6 @@
 [
   {
-    "title": "Security Champions Meetup Kickoff",
+    "title": "Security Champions Norge Kickoff",
     "description": "Meetup i Security Champions Norge hos NRK",
     "location": "Meet Ullevål, Oslo",
     "dateStart": "2022-09-21T12:00:00+0100",
@@ -8,7 +8,7 @@
     "tags": [ "meetup" ]
   },
   {
-    "title": "Security Champions Meetup 2",
+    "title": "Security Champions Norge Meetup 2",
     "description": "Meetup i Security Champions Norge hos NAV",
     "location": "NAV, Fyrstikkalléen 1, Oslo",
     "dateStart": "2022-11-28T12:00:00+0100",
@@ -17,7 +17,7 @@
     "tags": [ "meetup" ]
   },
   {
-    "title": "Security Champions Meetup 3",
+    "title": "Security Champions Norge Meetup 3",
     "description": "Meetup i Security Champions Norge hos Bouvet",
     "location": "Bouvet, Sørkedalsveien 8, 0369 Oslo",
     "dateStart": "2023-03-02T14:30:00+0100",
