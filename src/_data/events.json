@@ -1,29 +1,28 @@
 [
   {
-    "title": "NDC Security",
-    "description": "Conference for Software Developers",
-    "location": "Clarion Hotel, Oslo, Norge",
-    "dateStart": "2023-01-16T08:00:00Z",
-    "dateEnd": "2023-01-19T18:00:00Z",
-    "url": "https://ndc-security.com/",
-    "tags": [ "konferanse" ]
+    "title": "Security Champions Meetup Kickoff",
+    "description": "Meetup i Security Champions Norge hos NRK",
+    "location": "Meet Ullevål, Oslo",
+    "dateStart": "2022-09-21T12:00:00+0100",
+    "dateEnd": "2022-09-21T14:00:00+0100",
+    "tags": [ "meetup" ]
   },
   {
-    "title": "Kode24-dagen",
-    "description": "Norges koseligste utviklerkonferanse",
-    "location": "Quality Hotel Hasle Linie, Oslo, Norge",
-    "dateStart": "2023-02-09T07:00:00Z",
-    "dateEnd": "2023-02-09T21:00:00Z",
-    "url": "https://www.kode24-dagen.no/",
-    "tags": [ "konferanse" ]
+    "title": "Security Champions Meetup 2",
+    "description": "Meetup i Security Champions Norge hos NAV",
+    "location": "NAV, Fyrstikkalléen 1, Oslo",
+    "dateStart": "2022-11-28T12:00:00+0100",
+    "dateEnd": "2022-11-28T16:00:00+0100",
+    "url": "https://sikkerhet.nav.no/docs/events/2022-11-28-sec-champ-norge",
+    "tags": [ "meetup" ]
   },
   {
-  "title": "Sikkehetsfestivalen",
-  "description": "Norges største møteplass for cybersikkerhet",
-  "location": "Lillehammer, Norge",
-  "dateStart": "2023-08-28T08:00:00Z",
-  "dateEnd": "2023-08-30T14:00:00Z",
-  "url": "https://sikkerhetsfestivalen.no/",
-  "tags": [ "konferanse" ]
-}
+    "title": "Security Champions Meetup 3",
+    "description": "Meetup i Security Champions Norge hos Bouvet",
+    "location": "Bouvet, Sørkedalsveien 8, 0369 Oslo",
+    "dateStart": "2023-03-02T14:30:00+0100",
+    "dateEnd": "2023-03-02T16:30:00+0100",
+    "url": "https://sikkerhet.bouvet.no/security_champion/meetup_scnorge_3/",
+    "tags": [ "meetup" ]
+  }
 ]
