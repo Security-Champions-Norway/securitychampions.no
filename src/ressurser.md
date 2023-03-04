@@ -16,6 +16,7 @@ Har du noe som kan passe? Trykk på «Rediger på GitHub» nederst på siden.
 - [NAV IT Security Playbook](https://sikkerhet.nav.no)
 - [Equinor AppSec](https://equinor.github.io/appsec/)
 - [Bouvet Oppstartspakke Sikkerhet](https://sikkerhet.bouvet.no/security_champion/security_champion_startpoint)
+- [Norsk helsenett - Security Champion Community](https://sikkerhet.nhn.no/)
 
 ## 📰 Norske blogger/aviser/nyheter
 
