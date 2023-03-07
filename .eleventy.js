@@ -1,5 +1,6 @@
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function (eleventyConfig) {
   const passthroughDirs = ["src/img", "src/css", "src/fonts"];
@@ -55,6 +56,7 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(syntaxHighlight);
 
   return {
     dir: {
