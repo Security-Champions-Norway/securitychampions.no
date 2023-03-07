@@ -87,7 +87,3 @@ Etter å ha svart på et par enkle spørsmål er pluginet klart til bruk. Nødve
 Dette var en kort intro til 1Password sitt CLI. Verktøy som dette gjør det vesentlig enklere å håndtere hemmeligheter på en trygg måte også på kommandolinja. Sjekk [dokumentasjonen](https://developer.1password.com/docs/cli/get-started/) for detaljer og oversikt over all funksjonalitet.
 
 Happy (litt sikrere) coding!
-
----
-
-Denne nettsiden er laget med [11ty](https://www.11ty.dev), og kildekoden ligger åpent på GitHub: [Security-Champions-Norway/securitychampions.no]({{ site.githubRepoUrl }}). Send gjerne inn pull requester, eller be om bli lagt inn i [organisasjonen]({{ site.githubOrgUrl }}).
