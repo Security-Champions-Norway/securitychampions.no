@@ -8,7 +8,7 @@ author:
   image: /img/authors/jk.jpg
 ---
 
-<img src="/img/passwordnote.png" height="300px" style="border: 5px solid white" alt="Andre meetup, i regi av NAV" title="Andre meetup, i regi av NAV">
+<img src="/img/passwordnote.png" height="300px" style="border: 1px solid white" alt="Passord på gul lapp" title="Passord på gul lapp">
 
 ### Innledning
 
@@ -77,6 +77,10 @@ op plugin init gh
 ```
 
 Etter å ha svart på et par enkle spørsmål er pluginet klart til bruk. Nødvendige alias mm. legges automatisk inn i konfigurasjonen til ditt shell, og neste gang du skriver feks. `gh pr list` må du "vise fingeren".
+
+### SSH og Git
+
+1Password kan også hjelpe deg med å håndtere nøkler for SSH og signering av Git commits. Den kan generere nøkler og fylle dem automatisk inn i GUI-en til GitHub og flere av de store skyplattformene i tillegg til å automatisk konfigurere dine SSH og/eller Git-klienter. Sjekk lista over hvilke klienter som støttes [her](https://developer.1password.com/docs/ssh).
 
 ### Oppsummering
 
