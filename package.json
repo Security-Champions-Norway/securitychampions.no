@@ -17,7 +17,7 @@
     "@11ty/eleventy-plugin-rss": "1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.0",
     "husky": "8.0.3",
-    "ics": "2.41.0",
+    "ics": "3.1.0",
     "lint-staged": "13.2.1",
     "prettier": "2.8.7"
   },
