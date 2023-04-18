@@ -30,7 +30,8 @@
     "description": "Meetup i Security Champions Norge hos Politiets IT-enhet",
     "location": "Politiets IT-enhet, Fridtjof Nansens vei 14, Oslo",
     "dateStart": "2023-05-03T12:30:00+0200",
-    "dateEnd": "2023-05-03T15:30:00+0200",
+    "dateEnd": "2023-05-03T15:00:00+0200",
+    "url": "https://security-champions-no.slack.com/archives/C03L10QTFHP",
     "tags": [ "meetup" ]
   }
 ]
