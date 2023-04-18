@@ -27,10 +27,10 @@
   },
   {
     "title": "Security Champions Norge Meetup 4",
-    "description": "Mer informasjon kommer snart!",
-    "location": "TBD",
-    "dateStart": "2023-05-03T00:00:00+0200",
-    "dateEnd": "2023-05-03T23:59:59+0200",
+    "description": "Meetup i Security Champions Norge hos Politiets IT-enhet",
+    "location": "Politiets IT-enhet, Fridtjof Nansens vei 14, Oslo",
+    "dateStart": "2023-05-03T12:30:00+0200",
+    "dateEnd": "2023-05-03T15:30:00+0200",
     "tags": [ "meetup" ]
   }
 ]
