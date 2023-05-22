@@ -33,5 +33,15 @@
     "dateEnd": "2023-05-03T15:00:00+0200",
     "url": "https://security-champions-no.slack.com/archives/C03L10QTFHP",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 5",
+    "description": "Meetup/sommeravslutning i Security Champions Norge hos Bekk",
+    "location": "Bekk, Akershusstranda 21, Skur 39, Vippetangen",
+    "dateStart": "2023-06-08T17:00:00+0200",
+    "dateEnd": "2023-06-08T21:00:00+0200",
+    "url": "https://skjer.bekk.no/events/86ce6553-a025-41a4-8dd3-c2a1ddbdf0da",
+    "tags": [ "meetup" ]
   }
+
 ]
