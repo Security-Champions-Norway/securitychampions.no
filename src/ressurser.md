@@ -32,3 +32,7 @@ Har du noe som kan passe? Trykk på «Rediger på GitHub» nederst på siden.
 
 - September 2022: [Hvordan vi sikrer NAV.no og ⅓ av Norges statsbudsjett](https://vimeo.com/748031584)
 - Desember 2021: [Autonome team og Security Champions, hvordan NAV utvikler sikkert i fart](https://vimeo.com/669321429)
+
+## 🔗 Nyttige lenker
+
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
