@@ -57,6 +57,23 @@ a:hover {
   font-size: 2em;
 }
 
+.join-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-size: 1.2em;
+}
+.join-links img {
+  height: 20px;
+}
+.join-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
 .slack-join-link a {
   display: flex;
   align-items: center;
