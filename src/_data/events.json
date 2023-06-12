@@ -42,6 +42,14 @@
     "dateEnd": "2023-06-08T21:00:00+0200",
     "url": "https://skjer.bekk.no/events/86ce6553-a025-41a4-8dd3-c2a1ddbdf0da",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 6",
+    "description": "Meetup i Security Champions Norge hos DNB",
+    "location": "Bankboksen @ Bjørvika, Dronning Eufemias gate 30, Oslo",
+    "dateStart": "2023-09-08T12:00:00+0200",
+    "dateEnd": "2023-09-08T20:00:00+0200",
+    "tags": [ "meetup" ]
   }
 
 ]
