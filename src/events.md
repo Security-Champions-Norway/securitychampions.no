@@ -1,10 +1,15 @@
 ---
-title: Aktiviteter
+title: Meetups
 layout: "layouts/base.njk"
 pageClass: events
 ---
 
-# Kommende aktiviteter
+# Meetups
+
+Meetups i Security Champions Norge arrangeres på eget initiativ av deltakerne i fellesskapet, på vegne av organisasjonen sin.
+Ta kontakt med <a href="https://security-champions-no.slack.com/archives/D03KQMY4GNQ">Julian på Slack</a> hvis din organisasjon kan tenke seg å arrangere neste meetup!
+
+## Kommende aktiviteter
 
 <section class="blog-entries">
 {% for event in events | futureEvents | reverse %}
@@ -26,7 +31,7 @@ pageClass: events
 
 </section>
 
-# Tidligere aktiviteter
+## Tidligere aktiviteter
 
 <section class="blog-entries">
 {% for event in events | pastEvents | reverse %}
