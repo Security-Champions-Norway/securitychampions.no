@@ -54,11 +54,11 @@
   },
   {
     "title": "Security Champions Norge Meetup 7",
-    "description": "Meetup i Security Champions Norge hos Norsk helsenett. Tidspunkt kommer snart!",
-    "location": "TBD",
+    "description": "Meetup i Security Champions Norge hos Norsk Helsenett.",
+    "location": "NHN's lokaler i Oslo (Skøyen), Trondheim (Teknobyen) og Tromsø (Trofi Teknopark).",
     "url": "https://security-champions-no.slack.com/archives/C03L10QTFHP",
     "dateStart": "2023-10-26T00:00:00+0200",
-    "dateEnd": "2023-10-26T23:59:59+0200",
+    "dateEnd": "2023-10-26T00:00:00+0200",
     "tags": [ "meetup" ]
   }
 ]
