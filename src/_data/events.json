@@ -60,5 +60,14 @@
     "dateStart": "2023-10-26T15:00:00+0200",
     "dateEnd": "2023-10-26T18:00:00+0200",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 8",
+    "description": "Meetup i Security Champions Norge O3 Cyber",
+    "location": "O3 Cyber, Hegdehausveien 24, Oslo",
+    "url": "https://03cyber.notion.site/Security-Champions-Meetup-281b06cb3c3f481fbaf8c65d15bf004f",
+    "dateStart": "2024-02-01T15:00:00+0200",
+    "dateEnd": "2024-02-01T19:00:00+0200",
+    "tags": [ "meetup" ]
   }
 ]
