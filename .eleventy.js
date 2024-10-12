@@ -43,16 +43,18 @@ export default function (eleventyConfig) {
   }
 
   eleventyConfig.addFilter("formatDateISO", (date) =>
-    date ? date.toISOString().substring(0, 10) : ""
+    date ? date.toISOString().substring(0, 10) : "",
   );
   eleventyConfig.addFilter("formatDateHuman", formatDateHuman);
 
   const now = new Date();
   eleventyConfig.addFilter("futureEvents", (events) =>
-    events.filter((event) => new Date(event.dateEnd).getTime() >= now.getTime())
+    events.filter(
+      (event) => new Date(event.dateEnd).getTime() >= now.getTime(),
+    ),
   );
   eleventyConfig.addFilter("pastEvents", (events) =>
-    events.filter((event) => new Date(event.dateEnd).getTime() < now.getTime())
+    events.filter((event) => new Date(event.dateEnd).getTime() < now.getTime()),
   );
 
   eleventyConfig.addPlugin(pluginRss);
