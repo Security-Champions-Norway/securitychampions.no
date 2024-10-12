@@ -1,4 +1,4 @@
-const ics = require("ics");
+import ics from "ics";
 
 function toIcsDate(dateString) {
   const date = new Date(dateString);
@@ -43,4 +43,4 @@ class Calendar {
   }
 }
 
-module.exports = Calendar;
+export default Calendar;

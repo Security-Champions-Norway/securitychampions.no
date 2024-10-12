@@ -1,8 +1,8 @@
-const fs = require("fs");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+import fs from "fs";
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import syntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   const passthroughDirs = ["src/img", "src/css", "src/fonts"];
   passthroughDirs.forEach((dir) => eleventyConfig.addPassthroughCopy(dir));
 
@@ -69,4 +69,4 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     passthroughFileCopy: true,
   };
-};
+}
