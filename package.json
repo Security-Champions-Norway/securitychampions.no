@@ -16,12 +16,14 @@
   "engines": {
     "node": "~20"
   },
-  "devDependencies": {
+  "dependencies": {
     "@11ty/eleventy": "3.0.0",
     "@11ty/eleventy-plugin-rss": "1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.0",
+    "ics": "3.1.0"
+  },
+  "devDependencies": {
     "husky": "8.0.3",
-    "ics": "3.1.0",
     "lint-staged": "13.2.1",
     "prettier": "2.8.7"
   },
