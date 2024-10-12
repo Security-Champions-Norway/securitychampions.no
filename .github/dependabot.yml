@@ -1,0 +1,27 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+    groups:
+      all:
+        patterns:
+          - "*"
+
+  - package-ecosystem: "npm"
+    directories:
+      - "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+    groups:
+      devDependencies:
+        dependency-type: "development"
+      
+      nonMajor:
+        update-types:
+          - "patch"
+          - "minor"
+
