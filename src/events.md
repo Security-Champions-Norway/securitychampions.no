@@ -12,6 +12,14 @@ Ta kontakt med <a href="https://security-champions-no.slack.com/archives/D03KQMY
 ## Kommende aktiviteter
 
 <section class="blog-entries">
+
+{% if events | futureEvents | length == 0 %}
+
+<p>Ingen kommende aktiviteter. Kanskje nettopp din organisasjon har lyst til å arrangere neste meetup? Ta kontakt!
+</p>
+
+{% endif %}
+
 {% for event in events | futureEvents | reverse %}
 
 <section class="blog-entry">
