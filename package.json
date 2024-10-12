@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
@@ -23,7 +23,7 @@
     "ics": "3.1.0"
   },
   "devDependencies": {
-    "husky": "8.0.3",
+    "husky": "9.1.6",
     "lint-staged": "13.2.1",
     "prettier": "2.8.7"
   },
