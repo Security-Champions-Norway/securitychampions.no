@@ -78,5 +78,14 @@
     "dateStart": "2024-05-29T13:30:00+0200",
     "dateEnd": "2024-05-29T17:00:00+0200",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 10",
+    "description": "Meetup i Security Champions Norge hos Nav",
+    "location": "NAV, Fyrstikkalléen 1, Oslo",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7298252232263663616",
+    "dateStart": "2025-03-18T15:00:00+0200",
+    "dateEnd": "2025-03-18T18:00:00+0200",
+    "tags": [ "meetup" ]
   }
 ]
