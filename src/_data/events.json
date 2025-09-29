@@ -87,5 +87,14 @@
     "dateStart": "2025-03-18T15:00:00+0200",
     "dateEnd": "2025-03-18T18:00:00+0200",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 11",
+    "description": "Meetup i Security Champions Norge på Rebel",
+    "location": "Rebel, Universitetsgata 2, 0164 Oslo",
+    "url": "https://securitychampions.no/blogg/2025-09-29-meetup11-rebel/",
+    "dateStart": "2025-11-26T17:00:00+0200",
+    "dateEnd": "2025-11-26T19:00:00+0200",
+    "tags": [ "meetup" ]
   }
 ]
