@@ -38,6 +38,12 @@ Dersom du ønsker å jobbe med siden lokalt, for eksempel for å se hvordan arti
 
 - `node` minimum versjon 18
 
+Dersom du har [MISE-EN-PLACE](https://mise.jdx.dev) på maskinen din kan du bare kjøre
+
+`mise install`
+
+i denne katalogen, og vipps så har du en dertil egnet versjon av node til bruk!
+
 #### Forberede kjøring
 
 ```shell
