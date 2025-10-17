@@ -18,7 +18,7 @@ Etter en aldri så liten dvale er vi endelig gang med meetups igjen.
 ### Program (mindre endringer kan forekomme)
 
 - En hackers guide til Security Champions, Martin Londal (Politiet)
-- Lyntaler: State of security champions. Hvordan ser vårt program ut nå, og hvilke erfaringer har vi gjort underveis? Bidrag fra bl.a. DnB, Politiet, Kartverket og Nav
+- Lyntaler: State of security champions. Hvordan ser vårt program ut nå, og hvilke erfaringer har vi gjort underveis? Bidrag fra bl.a. DnB, Politiet, Storebrand og Nav
 - Pizza og kvalitetsmingling.
 
 **Takk til [Kodeklang](https://www.kodeklang.no) som sponser 🍕 ❤️**
