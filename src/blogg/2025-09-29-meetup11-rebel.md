@@ -13,6 +13,7 @@ Etter en aldri så liten dvale er vi endelig gang med meetups igjen.
 <div class="info-box">
   <a href="/calendar.ics"><h4>Tid: 26. november 2025 1700-1900</h4></a>
   <a href="https://share.here.com/p/s-Yz1SZXN0YXVyYW50O2lkPTU3OHU0eHN1LWU2MjNmMzJjM2U3ODFkNTcyN2YxNDE1MGM2YjQ5NzM3O2xhdD01OS45MTc1OTtsb249MTAuNzM5ODY7bj1SZWJlbDtwaD0rNDc2Njc3NjI4MA==?z=16&t=normal"><h4>Sted: Rebel - Oslo sentrum</h4></a>
+  <a href="https://forms.gle/PdoXnydivVKCzdaY9"><h4>Påmelding</h4></a>
 </div>
 
 ### Program (mindre endringer kan forekomme)
