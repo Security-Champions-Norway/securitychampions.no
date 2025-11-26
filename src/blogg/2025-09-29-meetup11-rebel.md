@@ -29,9 +29,9 @@ Har du spørsmål? Ta gjerne kontakt i [#meetup](https://security-champions-no.s
 - 👋 Velkommen og introduksjon, Julian Ravn Thrap-Meyer (Kodeklang)
 - 👾En hackers guide til Security Champions, Martin Londal (Politiet)
 - ⚡️Lyntaler: State of security champions. Hvordan ser vårt program ut nå, og hvilke erfaringer har vi gjort underveis?
-  - Jan-Kåre Solbakken (Politiet)
   - Jon Olav Amundsen (DNB)
   - Øyvind Bergerud (Storebrand)
+  - Gabriel Garcia Benito Dale (Politiet)
   - Emil Albrektsson (Nav)
 
 Det blir selvfølgelig også gode muligheter til å mingle og bli kjent med andre sikkerhetsinteresserte!
