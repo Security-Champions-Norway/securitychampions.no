@@ -96,5 +96,16 @@
     "dateStart": "2025-11-26T17:00:00+0200",
     "dateEnd": "2025-11-26T19:00:00+0200",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 12",
+    "description": "Meetup i Security Champions Norge hos Storebrand",
+    "location": "Professor Kohts vei 9, 1366 Lysaker",
+    "url": "https://www.linkedin.com/posts/oyvindbergerud_security-champions-norge-meetup-neste-activity-7427646763651555328--Weg",
+    "dateStart": "2026-03-11T17:00:00+0100",
+    "dateEnd": "2026-03-11T21:00:00+0100",
+    "tags": [ "meetup" ]
   }
 ]
+
+
