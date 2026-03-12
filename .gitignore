@@ -6,3 +6,5 @@ _site
 # Idea project files:
 *.iml
 .idea/
+
+pnpm-lock.yaml
