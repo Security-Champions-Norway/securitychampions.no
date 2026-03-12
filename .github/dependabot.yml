@@ -9,6 +9,8 @@ updates:
       all:
         patterns:
           - "*"
+    cooldown:
+      default-days: 5
 
   - package-ecosystem: "npm"
     directories:
@@ -19,9 +21,11 @@ updates:
     groups:
       devDependencies:
         dependency-type: "development"
-      
       nonMajor:
         update-types:
           - "patch"
           - "minor"
+    cooldown:
+      default-days: 5
+      
 
