@@ -10,7 +10,7 @@ updates:
         patterns:
           - "*"
     cooldown:
-      default-days: 5
+      default-days: 7
 
   - package-ecosystem: "npm"
     directories:
@@ -26,6 +26,6 @@ updates:
           - "patch"
           - "minor"
     cooldown:
-      default-days: 5
+      default-days: 7
       
 
