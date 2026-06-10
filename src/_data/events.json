@@ -105,6 +105,15 @@
     "dateStart": "2026-03-11T17:00:00+0100",
     "dateEnd": "2026-03-11T21:00:00+0100",
     "tags": [ "meetup" ]
+  },
+  {
+    "title": "Security Champions Norge Meetup 13",
+    "description": "Meetup i Security Champions Norge hos Sopra Steria",
+    "location": "Biskop Gunnerus' gate, Oslo",
+    "url": "https://securitychampions.no",
+    "dateStart": "2026-06-08T17:00:00+0100",
+    "dateEnd": "2026-06-08T21:19:00+0100",
+    "tags": [ "meetup" ]
   }
 ]
 
