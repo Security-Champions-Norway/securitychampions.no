@@ -30,17 +30,15 @@ jobs:
       id-token: write
     steps:
       - name: Checkout
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # ratchet:actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # ratchet:actions/checkout@v6
         with:
           persist-credentials: false
       - name: Setup Node
-        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # ratchet:actions/setup-node@v6
-        with:
-          cache: 'npm'
+        uses: pnpm/action-setup@0e279bb959325dab635dd2c09392533439d90093 # ratchet:pnpm/action-setup@v6
       - name: Install packages
-        run: npm ci
+        run: pnpm i --frozen-lockfile
       - name: Build website
-        run: npm run build
+        run: pnpm run build
         env:
           NODE_ENV: production
       - name: Setup Pages
