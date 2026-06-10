@@ -35,6 +35,8 @@ jobs:
           persist-credentials: false
       - name: Setup Node
         uses: pnpm/action-setup@0e279bb959325dab635dd2c09392533439d90093 # ratchet:pnpm/action-setup@v6
+        with:
+          version: 11
       - name: Install packages
         run: pnpm i --frozen-lockfile
       - name: Build website
