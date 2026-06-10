@@ -38,7 +38,7 @@ jobs:
         with:
           version: 11
       - name: Install packages
-        run: pnpm i --frozen-lockfile
+        run: pnpm i
       - name: Build website
         run: pnpm run build
         env:
